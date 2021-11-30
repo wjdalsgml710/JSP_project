@@ -1,1 +1,1 @@
-# choongang_project
+# JSP 프로젝트
