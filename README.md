@@ -1,4 +1,4 @@
-# jsp-team-project-in-choongang
+# JSP-team project (Choongang)
 
 * 채용 공고 사이트 제작 웹 프로젝트
 
